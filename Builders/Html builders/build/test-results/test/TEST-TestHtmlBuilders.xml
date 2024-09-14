@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestHtmlBuilders" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-14T03:11:49" hostname="DESKTOP-FDF9PFQ" time="0.054">
+  <properties/>
+  <testcase name="productTableIsColored" classname="TestHtmlBuilders" time="0.052"/>
+  <testcase name="productTableIsFilled" classname="TestHtmlBuilders" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

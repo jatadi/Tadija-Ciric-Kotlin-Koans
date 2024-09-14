@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNullableTypes" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-14T02:31:48" hostname="DESKTOP-FDF9PFQ" time="0.016">
+  <properties/>
+  <testcase name="everythingIsOk" classname="TestNullableTypes" time="0.01"/>
+  <testcase name="noClient" classname="TestNullableTypes" time="0.001"/>
+  <testcase name="noMessage" classname="TestNullableTypes" time="0.001"/>
+  <testcase name="noPersonalInfo" classname="TestNullableTypes" time="0.001"/>
+  <testcase name="noEmail" classname="TestNullableTypes" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

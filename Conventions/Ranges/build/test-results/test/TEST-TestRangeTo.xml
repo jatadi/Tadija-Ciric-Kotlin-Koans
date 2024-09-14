@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestRangeTo" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-14T02:42:03" hostname="DESKTOP-FDF9PFQ" time="0.011">
+  <properties/>
+  <testcase name="testAfter" classname="TestRangeTo" time="0.009"/>
+  <testcase name="testBefore" classname="TestRangeTo" time="0.001"/>
+  <testcase name="testInRange" classname="TestRangeTo" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

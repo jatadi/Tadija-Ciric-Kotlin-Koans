@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="HtmlDslTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-14T03:13:45" hostname="DESKTOP-FDF9PFQ" time="0.031">
+  <properties/>
+  <testcase name="testSample" classname="HtmlDslTest" time="0.027"/>
+  <testcase name="testTable1" classname="HtmlDslTest" time="0.002"/>
+  <testcase name="testTable2" classname="HtmlDslTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

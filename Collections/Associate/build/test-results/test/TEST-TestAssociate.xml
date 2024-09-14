@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestAssociate" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-09-14T02:56:57" hostname="DESKTOP-FDF9PFQ" time="0.041">
+  <properties/>
+  <testcase name="testAssociate" classname="TestAssociate" time="0.039"/>
+  <testcase name="testAssociateBy" classname="TestAssociate" time="0.001"/>
+  <testcase name="testAssociateWith" classname="TestAssociate" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
